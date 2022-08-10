@@ -46,7 +46,7 @@ He is aiming to take the next step on the career path by training as a developer
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=social-media)](https://github.com/piknik1979)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=social-media)](https://www.linkedin.com/in/tomasz-pikniczka-439b7151/)
 
-<img src="https://github.com/maximal-games/.github/blob/main/images/Tomasz.jpg" width=200px align=left alt="Tomasz Pikniczka"/>
+<img src="https://github.com/maximal-games/.github/blob/main/images/Tomasz.jpeg" width=200px align=left alt="Tomasz Pikniczka"/>
 
 Tomasz loves to travel, and his professional work has almost always been related to it. After years of navigating ships, buses and taxis, he decided to take a course in the programming world.
 
@@ -56,7 +56,7 @@ As he was learning HTML, CSS, JavaScript on his own, and then more advanced topi
 
 #
 
-<img src="https://github.com/maximal-games/.github/blob/main/images/Yuri.jpg" width=200px align=right alt="Yuri Sorokins"/>
+<img src="https://github.com/maximal-games/.github/blob/main/images/Yuri.png" width=200px align=right alt="Yuri Sorokins"/>
 
 ### About Yuri Sorokins
 
