@@ -28,7 +28,7 @@ She undertook the [Coding Bootcamp](https://northcoders.com/our-courses/coding-b
 
 #
 
-<img src="https://maximal-games.netlify.app/static/media/Gareth.55b789faf02809751fe9.jpg" width=200px align=right alt="Gareth Williams"/>
+<img src="https://github.com/maximal-games/.github/blob/main/images/Gareth.jpg" width=200px align=right alt="Gareth Williams"/>
 
 ### About Gareth Williams
 
@@ -46,7 +46,7 @@ He is aiming to take the next step on the career path by training as a developer
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=social-media)](https://github.com/piknik1979)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=social-media)](https://www.linkedin.com/in/tomasz-pikniczka-439b7151/)
 
-<img src="https://maximal-games.netlify.app/static/media/Tomasz.4676c09b761563e2b2d9.jpeg" width=200px align=left alt="Tomasz Pikniczka"/>
+<img src="https://github.com/maximal-games/.github/blob/main/images/Tomasz.jpg" width=200px align=left alt="Tomasz Pikniczka"/>
 
 Tomasz loves to travel, and his professional work has almost always been related to it. After years of navigating ships, buses and taxis, he decided to take a course in the programming world.
 
@@ -56,7 +56,7 @@ As he was learning HTML, CSS, JavaScript on his own, and then more advanced topi
 
 #
 
-<img src="https://maximal-games.netlify.app/static/media/Yuri.ede5ee47e79eb5476aef.png" width=200px align=right alt="Yuri Sorokins"/>
+<img src="https://github.com/maximal-games/.github/blob/main/images/Yuri.jpg" width=200px align=right alt="Yuri Sorokins"/>
 
 ### About Yuri Sorokins
 
