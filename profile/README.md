@@ -28,6 +28,48 @@ She undertook the [Coding Bootcamp](https://northcoders.com/our-courses/coding-b
 
 #
 
+<img src="https://maximal-games.netlify.app/static/media/Gareth.55b789faf02809751fe9.jpg" width=200px align=right alt="Gareth Williams"/>
+
+### About Gareth Williams
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=social-media)](https://github.com/garethrwilliams)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=social-media)](https://www.linkedin.com/in/gareth-williams-39a6bb177/)
+
+Gareth has recently worked as a technician in the culture sector, both within independent cinema and art galleries. He enjoys the challenge of problem solving and working out ways to creatively overcome obstacles that present themselves when tackling projects.
+
+He is aiming to take the next step on the career path by training as a developer and deepen his knowledge in a field that he is passionate about and finds fulfilling.
+
+#
+
+### About Tomasz Pikniczka
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=social-media)](https://github.com/piknik1979)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=social-media)](https://www.linkedin.com/in/tomasz-pikniczka-439b7151/)
+
+<img src="https://maximal-games.netlify.app/static/media/Tomasz.4676c09b761563e2b2d9.jpeg" width=200px align=left alt="Tomasz Pikniczka"/>
+
+Tomasz loves to travel, and his professional work has almost always been related to it. After years of navigating ships, buses and taxis, he decided to take a course in the programming world.
+
+He has always enjoyed working at the computer; not only playing games, but also learning all sorts of software, so why not try a real job in the industry?
+
+As he was learning HTML, CSS, JavaScript on his own, and then more advanced topics with Northcoders, he got to like it and is now looking for a technical role where he can put these skills to use.
+
+#
+
+<img src="https://maximal-games.netlify.app/static/media/Yuri.ede5ee47e79eb5476aef.png" width=200px align=right alt="Yuri Sorokins"/>
+
+### About Yuri Sorokins
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=social-media)](https://github.com/yuridevweb)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=social-media)](https://www.linkedin.com/in/yuri-sorokins-33a73223a/)
+
+After working in retail and distribution sector, Yuri has decided this is not his cup of tea! This motivated him to start his path as a self taught programmer, learning python and web development in his spare time.
+
+This year he joined the Northcoders Bootcamp and completely enjoyed getting stuck in with JavaScript which allowed him to combine his interest in technology with his passion to solve logic problems.
+
+He loves sport, reading and finances and is excited to start a career as a full stack software developer.
+
+#
 ### About Zan Clifton
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=social-media)](https://github.com/ZanClifton)
