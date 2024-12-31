@@ -11,18 +11,18 @@
 
 ### Maximal()
 
-Maximal is a team comprised of [Diana Vozanu](https://github.com/dianavoz), [Gareth Williams](https://github.com/garethrwilliams), [Tomas Pikniczka](https://github.com/piknik1979), [Yuri Sorokins](https://github.com/yuridevweb) and [Zan Clifton](https://github.com/ZanClifton).
+Maximal is a team comprised of [Di V](https://github.com/divoz), [Gareth Williams](https://github.com/garethrwilliams), [Tomas Pikniczka](https://github.com/piknik1979), [Yuri Sorokins](https://github.com/yuridevweb) and [Zan Clifton](https://github.com/ZanClifton).
 
-### About Diana Vozanu
+### About Di V
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=social-media)](https://github.com/dianavoz)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=social-media)](https://www.linkedin.com/in/dianavoz/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=social-media)](https://github.com/divoz)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=social-media)](https://www.linkedin.com/in/divoz/)
 
-<img src="https://avatars.githubusercontent.com/u/40432724?v=4" width=200px align=left alt="Diana Vozanu"/>
+<img src="https://avatars.githubusercontent.com/u/40432724?v=4" width=200px align=left alt="Di V"/>
 
-Diana moved to Italy in her teens and later settled in the UK. Aside from the programming languages she has recently learned from [Northcoders](https://northcoders.com/), she is also fluent in 4 spoken and written languages.
+Di moved to Italy in her teens and later settled in the UK. Aside from the programming languages she has recently learned from [Northcoders](https://northcoders.com/), she is also fluent in 4 spoken and written languages.
 
-Previously she has held a variety of jobs, most recently as a digital producer for a large events company, learning new technologies and mentoring colleages to gain their own expertise in them. In this role, Diana worked with designers and programmers who inspired her interest in web development.
+Previously she has held a variety of jobs, most recently as a digital producer for a large events company, learning new technologies and mentoring colleages to gain their own expertise in them. In this role, Di worked with designers and programmers who inspired her interest in web development.
 
 She undertook the [Coding Bootcamp](https://northcoders.com/our-courses/coding-bootcamp) to realise her ambition to work in software development and is enhancing and developing her computer science, coding skills and technical competencies.
 
